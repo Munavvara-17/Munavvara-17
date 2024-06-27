@@ -1,5 +1,4 @@
 <h2>Hi👋, I’m Munavvara Nayab</h2>
-<hr>
 <h3>I am sofware engineer, to collaborate and contribute in some creative real-world projects !!</h3>
 <p>Currently I'm learning DSA, web development</p>
 
