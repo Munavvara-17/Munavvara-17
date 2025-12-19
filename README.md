@@ -68,14 +68,3 @@ Currently learning <b>DSA, Machine Learning, Data Analysis</b> and building real
 
 
 ---
-
-## ✍️ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
-
----
-
-✨ <b>Always learning, always building, always improving.</b>  
-⭐ Star my repositories if you find them useful!
