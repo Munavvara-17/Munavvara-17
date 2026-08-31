@@ -1,70 +1,18 @@
-<h1 align="center">Hi 👋, I'm Munavvara Nayab</h1>
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Munavvara Nayab</h1><br><br><p align="center"><br>Aspiring Software Engineer | ML & Data Analyst Enthusiast  <br><br/><br>Looking to collaborate and contribute to creative real-world projects 🚀<br></p><br><br><p align="center"><br>Currently learning <b>DSA, Machine Learning, Data Analysis</b> and building real-world AI projects.<br></p><br><br>---<br><br>## 🌐 Socials<br><p align="left"><br><a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><br>  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br></a><br></p><br><br>---<br><br>## 🧑🏻‍💻 Coding Profiles<br><p align="left"><br><img src="https://img.shields.io/badge/GitHub-Munavvara--17-black?style=for-the-badge&logo=github"/><br><img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/><br><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/><br></p><br><br>---<br><br>## 💻 Tech Stack<br><br>### Languages<br>![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)<br>![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)<br>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)<br>![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)<br><br>### Data & ML<br>![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)<br>![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)<br>![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)<br>![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)<br><br>### Web & Tools<br>![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)<br>![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)<br>![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)<br>![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)<br>![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)<br>![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)<br>![Google Colab](https://img.shields.io/badge/Colab-orange?style=for-the-badge&logo=googlecolab)<br><br>---<br><br>## 📊 GitHub Stats<br><p align="center"><br><img src="https://github-readme-stats.vercel.app/api?username=Munavvara-17&show_icons=true&theme=tokyonight" height="160"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munavvara-17&layout=compact&theme=tokyonight" height="160"/><br></p><br><br>---<br><br>## 🏆 GitHub Trophies<br><br><br>---<br>
 
-<p align="center">
-Aspiring Software Engineer | ML & Data Analyst Enthusiast  
-<br/>
-Looking to collaborate and contribute to creative real-world projects 🚀
-</p>
 
-<p align="center">
-Currently learning <b>DSA, Machine Learning, Data Analysis</b> and building real-world AI projects.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/munavvara-nayab-71018a25a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Munavvara Nayab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k22.cse.2212643@gmail.com) 
 
----
-
-## 🌐 Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=plastic&logo=gitee&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Munavvara-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Munavvara-17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Munavvara-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Munavvara-17&icon=0&color=5)](https://visitcount.itsvg.in)
 
-## 🧑🏻‍💻 Coding Profiles
-<p align="left">
-<img src="https://img.shields.io/badge/GitHub-Munavvara--17-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-
-### Web & Tools
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Google Colab](https://img.shields.io/badge/Colab-orange?style=for-the-badge&logo=googlecolab)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Munavvara-17&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munavvara-17&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
