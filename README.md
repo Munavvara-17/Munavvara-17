@@ -62,30 +62,49 @@ print(me.motto())
 
 ---
 
-## `tech_stack --all`
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### Programming Languages
+### `01` — Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark" alt="Python, Java, JavaScript, C and C++" />
 
-### Web Development & Tools
+### `02` — Frontend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode&theme=dark" alt="Web development tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript" />
 
-### AI, Machine Learning & Data
+### `03` — Backend & Development Tools
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="Machine learning tools"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" alt="Node.js, Express, databases, Git, GitHub and VS Code" />
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Librosa-Audio%20Processing-8A2BE2?style=flat-square" alt="Librosa"/>
+### `04` — AI, Machine Learning & Data
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow and Scikit-learn" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Librosa-Audio%20Analysis-8A2BE2?style=for-the-badge" alt="Librosa" />
+
+### `05` — Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,figma,canva&theme=dark" alt="Deployment and design tools" />
 
 </div>
 
 ---
+
+<div align="center">
+
+**LEARN → BUILD → TEST → DEPLOY → IMPROVE**
+
+<sub>Always exploring new technologies and building practical projects.</sub>
+
+</div>
 
 ## `projects --featured`
 
