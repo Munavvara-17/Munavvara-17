@@ -226,7 +226,7 @@ A healthcare analytics dashboard developed during a data analytics internship.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munavvara-17&bg_color=050816&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)](https://github.com/Munavvara-17)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munavvara-17&bg_color=0d1117&color=00f5ff&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/Munavvara-17)
 
 </div>
 
