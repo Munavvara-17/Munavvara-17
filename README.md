@@ -222,15 +222,16 @@ A healthcare analytics dashboard developed during a data analytics internship.
 
 ---
 
-## `contribution_activity --live`
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munavvara-17&bg_color=0d1117&color=00f5ff&line=8a2be2&point=ffffff&area=true&hide_border=true)](https://github.com/Munavvara-17)
+<img src="https://ghchart.rshah.org/00F5FF/Munavvara-17" alt="Munavvara's GitHub contribution graph" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+[View my contributions on GitHub](https://github.com/Munavvara-17)
 
 **Every commit is a step forward. Every project is a lesson.**
 
