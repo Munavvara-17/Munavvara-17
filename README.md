@@ -90,9 +90,18 @@ print(me.motto())
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/Librosa-Audio%20Analysis-8A2BE2?style=for-the-badge" alt="Librosa" />
 
-### `05` — Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,figma,canva&theme=dark" alt="Deployment and design tools" />
+### `05` — Tools, Design & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,figma&theme=dark" alt="Vercel, Netlify and Figma"/>
+
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48" alt="Canva"/>
+</a>
+
+</div>
 
 </div>
 
