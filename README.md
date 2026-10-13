@@ -1,14 +1,274 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Munavvara Nayab</h1><br><br><p align="center"><br>Aspiring Software Engineer | ML & Data Analyst Enthusiast  <br><br/><br>Looking to collaborate and contribute to creative real-world projects 🚀<br></p><br><br><p align="center"><br>Currently learning <b>DSA, Machine Learning, Data Analysis</b> and building real-world AI projects.<br></p><br><br>---<br><br>## 🌐 Socials<br><p align="left"><br><a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><br>  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br></a><br></p><br><br>---<br><br>##  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=plastic&logo=gitee&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Munavvara-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Munavvara-17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Munavvara-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--
+  GITHUB PROFILE README
+  Username: Munavvara-17
+  Theme: Cyberpunk / Neon
+-->
+
+<div align="center">
+
+<a href="https://github.com/Munavvara-17">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6C00FF,100:00F5FF&height=220&section=header&text=MUNAVVARA%20NAYAB&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20%7C%20AI%20%7C%20DATA&descAlignY=55&descSize=16" width="100%" alt="Cyberpunk profile banner"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Developer+in+Progress;Building+Ideas+Into+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Full-Stack+Development+%7C+Data+%7C+AI;Code.+Create.+Experiment.+Repeat." alt="Animated typing introduction"/>
+
+<br/>
+
+<a href="https://github.com/Munavvara-17">
+  <img src="https://img.shields.io/badge/PROFILE-Munavvara--17-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
+</a>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20AI-8A2BE2?style=for-the-badge" alt="Software and AI focus"/>
+<img src="https://komarev.com/ghpvc/?username=Munavvara-17&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Munavvara-17&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami` — About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Munavvara Nayab"
+        self.education = "B.Tech CSE"
+        self.location = "India"
+        self.interests = [
+            "Software Engineering",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Analytics",
+            "Problem Solving"
+        ]
+        self.current_focus = [
+            "DSA",
+            "Full-Stack Development",
+            "AI-powered Applications"
+        ]
+
+    def motto(self):
+        return "Build. Break. Learn. Improve."
+
+me = Developer()
+print(me.motto())
+```
+
+- 🎓 Computer Science and Engineering graduate.
+- 💻 Interested in software engineering and building practical applications.
+- 🤖 Exploring AI, NLP, machine learning, and intelligent systems.
+- 📊 Interested in data analytics, visualization, and data-driven decisions.
+- 🚀 Improving my coding, development, and problem-solving skills through projects.
+- 🎯 Goal: Build reliable software that solves meaningful problems.
+
+---
+
+## `tech_stack --all`
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming languages"/>
+
+### Web Development & Tools
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode&theme=dark" alt="Web development tools"/>
+
+### AI, Machine Learning & Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="Machine learning tools"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Librosa-Audio%20Processing-8A2BE2?style=flat-square" alt="Librosa"/>
+
+</div>
+
+---
+
+## `projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">01 // E-SERVE NEXUS</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT-FULL--STACK-00F5FF?style=flat-square" alt="Full-stack project"/>
+</div>
+
+**Restaurant Ordering & Management Platform**
+
+A web application focused on restaurant ordering workflows and order management.
+
+- Customer-facing menu and ordering experience.
+- Cart and order placement.
+- Restaurant-side order management.
+- An opportunity to build real-time status updates and operational analytics.
+
+**Stack:** HTML, CSS, JavaScript, Node.js, Express.js.
+
+<div align="center">
+
+[**↗ VIEW PROJECT**](https://github.com/Munavvara-17/E-SERVE-NEXUS)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">02 // VOICE SENTINEL</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT-AI%20%2F%20ML-8A2BE2?style=flat-square" alt="AI and ML project"/>
+</div>
+
+**Voice-Driven Sentiment Analysis with Intelligent Sarcasm Detection**
+
+A multimodal project combining speech-derived text and audio features to explore sentiment and sarcasm detection.
+
+- Speech-to-text processing.
+- Text-based sarcasm classification.
+- Audio features such as MFCC, pitch, energy, and zero-crossing rate.
+- Sentiment classification: positive, negative, and neutral.
+
+**Stack:** Python, NLP, Scikit-learn, Librosa.
+
+<div align="center">
+
+[**↗ EXPLORE REPOSITORIES**](https://github.com/Munavvara-17?tab=repositories)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">03 // M2K2</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT-CONVERSATIONAL%20AI-00F5FF?style=flat-square" alt="Conversational AI project"/>
+</div>
+
+**Mock Interview Chatbot**
+
+A voice-oriented interview practice application designed to help candidates practise questions and evaluate their responses.
+
+- Speech recognition.
+- Interview question and response workflow.
+- Text processing using TF-IDF.
+- Logistic Regression-based response evaluation.
+
+**Stack:** Python, NLP, Speech Recognition, Scikit-learn.
+
+<div align="center">
+
+[**↗ EXPLORE REPOSITORIES**](https://github.com/Munavvara-17?tab=repositories)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">04 // DATA INSIGHTS</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT-DATA%20ANALYTICS-F2C811?style=flat-square" alt="Data analytics project"/>
+</div>
+
+**Medilytics — Healthcare Revenue Dashboard**
+
+A healthcare analytics dashboard developed during a data analytics internship.
+
+- Revenue and performance monitoring.
+- KPI-oriented dashboard design.
+- Data-driven business insights.
+- Data cleaning and visualization.
+
+**Stack:** Power BI, Data Analytics.
+
+<div align="center">
+
+[**↗ EXPLORE REPOSITORIES**](https://github.com/Munavvara-17?tab=repositories)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `github_stats --overview`
+
+<div align="center">
+
+<a href="https://github.com/Munavvara-17">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Munavvara-17&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Munavvara-17">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munavvara-17&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Munavvara-17&hide_border=true&background=050816&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `contribution_activity --live`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munavvara-17&bg_color=050816&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true)](https://github.com/Munavvara-17)
+
+</div>
+
+<div align="center">
+
+**Every commit is a step forward. Every project is a lesson.**
+
+</div>
+
+---
+
+## `mission.log`
+
+```text
+[01] Strengthen Data Structures & Algorithms
+[02] Build full-stack applications with clean architecture
+[03] Improve Java, JavaScript, Python and SQL
+[04] Explore AI/ML and intelligent applications
+[05] Learn testing, deployment and backend engineering
+[06] Collaborate, contribute and keep building
+```
+
+---
+
+## `connect --with-me`
+
+<div align="center">
+
+<a href="https://github.com/Munavvara-17">
+  <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:6C00FF,100:050816&height=100&section=footer" width="100%" alt="Neon footer"/>
+
+**`01001101 01110101 01101110 01100001 01110110 01110110 01100001 01110010 01100001`**
+
+*“Think logically. Build boldly. Keep evolving.”*
+
+</div>
