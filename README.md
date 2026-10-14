@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/PROFILE-Munavvara--17-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
 </a>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20AI-8A2BE2?style=for-the-badge" alt="Software and AI focus"/>
-![Profile Views](https://komarev.com/ghpvc/?username=Munavvara-17)
+<img src="https://komarev.com/ghpvc/?username=Munavvara-17&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
